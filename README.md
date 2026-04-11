@@ -130,7 +130,7 @@ Visit `http://localhost:3000`.
 | DELETE | `/api/tasks/:id` | Delete a task |
 
 ---
-<img width="1912" height="1136" alt="image" src="https://github.com/user-attachments/assets/32b77b90-6386-4b2d-abda-4c7e274713f4" />
+
 <img width="1910" height="1087" alt="image" src="https://github.com/user-attachments/assets/70fb75cd-321b-4b67-9731-102e6814dc2e" />
 <img width="1909" height="1085" alt="image" src="https://github.com/user-attachments/assets/151baab3-924f-4032-b9f4-2826d65b49f7" />
 <img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/c3f79033-a4a7-46e9-893e-27c5a7863f16" />
